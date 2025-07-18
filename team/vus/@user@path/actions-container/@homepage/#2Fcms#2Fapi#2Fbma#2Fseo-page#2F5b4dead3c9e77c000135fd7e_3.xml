@@ -1,0 +1,56 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/cms/api/bma/seo-page/5b4dead3c9e77c000135fd7e_3"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/d8c96963-9a14-4e06-a1b5-24bcfd2fbda4.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="d8c96963-9a14-4e06-a1b5-24bcfd2fbda4">
+    <embedded-action>5f731919-8937-4e8b-a5a2-4edd823c9713</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/cms/api/bma/seo-page/5b4dead3c9e77c000135fd7e"
+    path="/cms/api/bma/seo-page/5b4dead3c9e77c000135fd7e" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/d8c96963-9a14-4e06-a1b5-24bcfd2fbda4.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="cms-hlv1.coral.co.uk" slaProfileEnabled="false"
+    uid="5f731919-8937-4e8b-a5a2-4edd823c9713" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_5f731919-8937-4e8b-a5a2-4edd823c9713.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://load-www.coral.co.uk/"/>
+    <header name="x-bwin-browser-url" value="https://load-www.coral.co.uk/en/sports"/>
+    <header name="if-none-match" value="&quot;2d44c5adb3ea60ae10660ea918fbc2a5&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://load-www.coral.co.uk"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="application/json, text/plain, */*"/>
+    <header name="if-modified-since" value="Tue, 21 Jul 2020 08:11:34 GMT"/>
+    <header name="x-device-type" value="desktop"/>
+    <header name="x-from-product" value="host-app"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 18 Jul 2025 05:18:04 GMT&#xd;
+cf-ray: 960f842d5a1082c3-IAD&#xd;
+cf-cache-status: HIT&#xd;
+access-control-allow-origin: https://load-www.coral.co.uk&#xd;
+age: 87&#xd;
+cache-control: max-age=10&#xd;
+etag: "2d44c5adb3ea60ae10660ea918fbc2a5"&#xd;
+last-modified: Tue, 21 Jul 2020 08:11:34 GMT&#xd;
+vary: Origin, Access-Control-Request-Headers, Access-Control-Request-Method, Accept-Encoding&#xd;
+access-control-allow-methods: GET&#xd;
+access-control-max-age: 0&#xd;
+x-amz-id-2: W/w7O4JwbFH7mQTzETVA/lV1zxjB7si2HBbckCpmVBxZKVhyW+0IxX9A9e7NxNvLLnxq6TXoJ3A=&#xd;
+x-amz-request-id: 0V21EVFDXMMWQ8JZ&#xd;
+x-amz-version-id: null&#xd;
+set-cookie: __cf_bm=tCDgGy8W.Sru8Sd14qB7KEnEFfc2LroqrgPbuu38kl8-1752815884-1.0.1.1-XD8JBNsyxD6aMW1r2NbWkjxifPA.WEPoZqejmoQx8tQpKRFRUdCslKG8hYvQOQTJZNezZYIxDrdp5NUvbwOeTfTuclNGD8muCLZfxo_kUSc; path=/; expires=Fri, 18-Jul-25 05:48:04 GMT; domain=.coral.co.uk; HttpOnly; Secure; SameSite=None&#xd;
+server: cloudflare&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
